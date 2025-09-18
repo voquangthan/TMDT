@@ -9,16 +9,17 @@
 
   Hỗ trợ quản trị viên quản lý hệ thống:
 
-  Quản lý sản phẩm (thêm, sửa, xóa).
+      Quản lý sản phẩm (thêm, sửa, xóa).
 
-  Quản lý đơn hàng, khách hàng.
+      Quản lý đơn hàng, khách hàng.
 
-  Thống kê doanh số, lượng bán ra.
+      Thống kê doanh số, lượng bán ra.
 
 Website cần có giao diện dễ sử dụng, thân thiện, tương thích trên máy tính và điện thoại.
 
 2. Chức năng chính
   2.1. Chức năng người dùng (khách hàng)
+
       Đăng ký/Đăng nhập tài khoản.
 
       Xem danh sách sản phẩm, lọc theo giá, hãng, cấu hình.
@@ -36,6 +37,7 @@ Website cần có giao diện dễ sử dụng, thân thiện, tương thích tr
       Viết nhận xét/đánh giá sản phẩm.
 
   2.2. Chức năng quản trị (admin)
+  
       Quản lý sản phẩm: thêm, sửa, xóa, cập nhật tồn kho.
 
       Quản lý đơn hàng: xác nhận, hủy, cập nhật trạng thái.
