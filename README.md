@@ -47,30 +47,6 @@
 
 ●Thống kê doanh thu, sản phẩm bán chạy.
 
-
-3. Khảo sát các trang web bán hàng điện thoại hiện có
-FPT Shop (https://fptshop.com.vn)
-●Ưu điểm: Thiết kế hiện đại, có so sánh sản phẩm, tư vấn online.
-
-●Nhược điểm: Nhiều popup quảng cáo gây khó chịu.
-Trang chủ:
-
-Sàn Sp
-
-Chi tiết sp
-
-Trang giỏ hàng và đặt hàng
-
-CellphoneS (https://cellphones.com.vn)
-●Ưu điểm: Có nhiều hình ảnh, review chi tiết, giao diện đẹp.
-
-●Nhược điểm: Tốc độ tải đôi khi chậm, một số thông tin bị phân tán.
-Trang chủ
-
-List sp 
-
-Chi tiết sp
-
 Trang đăng nhập để mua sp
 
 
